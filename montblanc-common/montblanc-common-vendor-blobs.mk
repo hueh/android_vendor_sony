@@ -40,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/montblanc-common/proprietary/bin/psccd:system/bin/psccd \
     vendor/sony/montblanc-common/proprietary/bin/cg2900-channel_init.sh:system/bin/cg2900-channel_init.sh \
     vendor/sony/montblanc-common/proprietary/bin/modemcatcher:system/bin/modemcatcher \
+    vendor/sony/montblanc-common/proprietary/bin/rild:system/bin/rild \
     vendor/sony/montblanc-common/proprietary/bin/simpbd:system/bin/simpbd \
     vendor/sony/montblanc-common/proprietary/bin/msa:system/bin/msa \
     vendor/sony/montblanc-common/proprietary/bin/cops_cmd:system/bin/cops_cmd \
@@ -406,6 +407,9 @@ PRODUCT_COPY_FILES += \
     vendor/sony/montblanc-common/proprietary/lib/egl/libEGL_mali.so:system/lib/egl/libEGL_mali.so \
     vendor/sony/montblanc-common/proprietary/lib/egl/libGLESv1_CM_mali.so:system/lib/egl/libGLESv1_CM_mali.so \
     vendor/sony/montblanc-common/proprietary/lib/egl/libGLESv2_mali.so:system/lib/egl/libGLESv2_mali.so \
+    vendor/sony/montblanc-common/proprietary/lib/libbluedroid.so:system/lib/libbluedroid.so \
+    vendor/sony/montblanc-common/proprietary/lib/libbluetooth.so:system/lib/libbluetooth.so \
+    vendor/sony/montblanc-common/proprietary/lib/libbluetoothd.so:system/lib/libbluetoothd.so \
     vendor/sony/montblanc-common/proprietary/lib/libmaluicc.so:system/lib/libmaluicc.so \
     vendor/sony/montblanc-common/proprietary/lib/libnmf.so:system/lib/libnmf.so \
     vendor/sony/montblanc-common/proprietary/lib/libstagefright_soft_ste_wmapro_v10.so:system/lib/libstagefright_soft_ste_wmapro_v10.so \
