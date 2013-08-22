@@ -449,6 +449,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/montblanc-common/proprietary/lib/libpscc.so:system/lib/libpscc.so \
     vendor/sony/montblanc-common/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
     vendor/sony/montblanc-common/proprietary/lib/libmalmon.so:system/lib/libmalmon.so \
+    vendor/sony/montblanc-common/proprietary/lib/libfmradio.cg2900.so:system/lib/libfmradio.cg2900.so \
     vendor/sony/montblanc-common/proprietary/lib/libomxil-bellagio.so:system/lib/libomxil-bellagio.so \
     vendor/sony/montblanc-common/proprietary/lib/libsterc.so:system/lib/libsterc.so \
     vendor/sony/montblanc-common/proprietary/lib/ste_omxcomponents/libste_ext_camera.so:system/lib/ste_omxcomponents/libste_ext_camera.so \
